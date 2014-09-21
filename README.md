@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Hello World
+Just checking out GitHub
+With the usual Hello-world !!!
+
